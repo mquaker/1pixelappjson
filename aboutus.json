@@ -1,0 +1,26 @@
+{
+    "intro": "We live, breathe and spend our day creating interesting mobile apps. We founded a computer security company in 2000 and changed the business field into online game development in 2005.  Based on our own's independent service and overseas service management experience, now, we are focusing on mobile game, mobile software, development and outsourcing production.We will do our best to develop creative games and softwares that everyone can enjoy and use easily.",
+    "team": "Since founding the company in 2000. we have been a friend-like member and a family member of 1pixel. Four of us have been supporting and leading 1 pixel since its foundation. This is a team that will be last until the closing day of the company. Our team members will do our best to continue to present healthy games that everyone can enjoy and be happy.",
+    "teammate": [
+        {
+            "pos": "CEO & Founder",
+            "name": "KIM, KYUNG-HUN",
+            "photo": "https:\/\/static.wixstatic.com\/media\/3bb7e7_80248ecf3a8f47d7b479e6ce3eec22fc~mv2.jpg"
+        },
+        {
+            "pos": "CFO & Founder",
+            "name": "ROH, SANG-HWAN",
+            "photo": "https:\/\/static.wixstatic.com\/media\/3bb7e7_01ae399557bd4975a6096bb53fd053d6~mv2.jpg"
+        },
+        {
+            "pos": "COO & Founder",
+            "name": "LIM, DOO-JIN",
+            "photo": "https:\/\/static.wixstatic.com\/media\/3bb7e7_3b96b143b6604d988f4347afac036a97~mv2.png"
+        },
+        {
+            "pos": "CTO & Founder",
+            "name": "YU, JAE-KWANG",
+            "photo": "https:\/\/static.wixstatic.com\/media\/3bb7e7_86fb2e490dc943458896407d8c561326~mv2.jpg"
+        }
+    ]
+}
