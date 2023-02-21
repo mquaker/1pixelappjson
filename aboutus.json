@@ -5,6 +5,7 @@
         {
             "pos": "CEO & Founder",
             "name": "KIM, KYUNG-HUN",
+            "email": "ceo@1pixel.kr",
             "photo": "https://static.wixstatic.com/media/3bb7e7_80248ecf3a8f47d7b479e6ce3eec22fc~mv2.jpg"
         },
         {
@@ -20,6 +21,7 @@
         {
             "pos": "CTO & Founder",
             "name": "YU, JAE-KWANG",
+            "email": "mquaker@1pixel.kr",
             "photo": "https://static.wixstatic.com/media/3bb7e7_86fb2e490dc943458896407d8c561326~mv2.jpg"
         }
     ]
