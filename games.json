@@ -1,36 +1,42 @@
 {
     "items": [
         {
+            "key": "linko",
             "title": "Linko - Relaxing Loop",
             "image": "https:\/\/static.wixstatic.com\/media\/3bb7e7_ae6ba06b4bfd4c268795bdcc6b7d6008~mv2.png",
             "download": "https:\/\/app.1pixel.kr\/linkogame",
             "description": "Linko is a very simple and calming puzzle game. All you need to prepare to play Linko is your phone and one finger. Linko is not difficult or complicated, so anyone, regardless of age or gender, can enjoy it."
         },
         {
+            "key": "mahko",
             "title": "Mahko - Relaxing Tiles",
             "image": "https:\/\/static.wixstatic.com\/media\/3bb7e7_7274db8882f04417b6cd47182ae350f9~mv2.png",
             "download": "https:\/\/app.1pixel.kr\/mahkogame",
             "description": "Mahko is a classic tile matching game. Simple but fun and addictive. Specific levels may be difficult. There is no time limit, so there is no need to rush. Relax and Calm your mind and slowly find a solution."
         },
         {
+            "key": "linko2",
             "title": "Linko 2 - Relaxing Loop Shape",
             "image": "https:\/\/static.wixstatic.com\/media\/3bb7e7_9d229c1a00d74c5bbd70886f76377bf1~mv2.png",
             "download": "https:\/\/app.1pixel.kr\/linko2game",
             "description": "A new game is here to calm your mind and give you relaxation. Once again, ready one finger of yours. Calm your mind and link the broken lines to complete the shape (space). It doesn't get harder as the level progresses."
         },
         {
+            "key": "blocko",
             "title": "Blocko - Relaxing Symmetry",
             "image": "https:\/\/static.wixstatic.com\/media\/3bb7e7_a3e221f0366e493191e19da9c4361d33~mv2.png",
             "download": "https:\/\/app.1pixel.kr\/blockogame",
             "description": "Here comes another series of games from Linko. A puzzle board game that can calm your mind and relaxing. It's a block game that you can't put down once you catch it. Enjoy a simple but not easy puzzle board game."
         },
         {
+            "key": "cubiko",
             "title": "Cubiko - Relaxing Cube",
             "image": "https:\/\/static.wixstatic.com\/media\/3bb7e7_1b5359c246b44941988a65b31d4a2534~mv2.png",
             "download": "https:\/\/app.1pixel.kr\/cubikogame",
             "description": "Meet the world famous puzzle game Magic Cube (called Rubik's Cube) with a minimal design. You can only enjoy the intuitive cube game in 2D. Cubiko provides an easy introduction to the Magic Cube (called Rubik's Cube)."
         },
         {
+            "key": "trisko",
             "title": "Trisko - Relaxing Pentomino",
             "image": "https:\/\/static.wixstatic.com\/media\/3bb7e7_982e9860cf734b528d69058f9d72e6b0~mv2.png",
             "download": "https:\/\/app.1pixel.kr\/triskogame",
