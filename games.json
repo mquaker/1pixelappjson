@@ -41,7 +41,7 @@
             "image": "https:\/\/play-lh.googleusercontent.com\/4Oh9jHiDIg_kpvJgI3da0v1hHFDNEi9qAWQkC8FmK3OmGjM-N2xGTu5wV62kvNnKdXmP=w240-h480",
             "download": "https:\/\/app.1pixel.kr\/triskogame",
             "description": "The world's most loved puzzle game has been reimagined in a new way."
-        },,
+        },
         {
             "key": "reflecko",
             "title": "Reflecko - Relaxing Paint",
@@ -55,6 +55,6 @@
             "image": "https:\/\/play-lh.googleusercontent.com\/as5NTyKaWi2rT8Sh3Sw-V-OaKc-yATDF_s7RTx82OLYR2zQhCZhXceiQ4w7XUNzwXYs=w240-h480",
             "download": "https:\/\/app.1pixel.kr\/fillkogame",
             "description": "To fill the empty spaces, follow a simple rule of expanding number tiles in all directions."
-        },
+        }
     ]
 }
