@@ -3,44 +3,58 @@
         {
             "key": "linko",
             "title": "Linko - Relaxing Loop",
-            "image": "https:\/\/static.wixstatic.com\/media\/3bb7e7_ae6ba06b4bfd4c268795bdcc6b7d6008~mv2.png",
+            "image": "https:\/\/play-lh.googleusercontent.com\/yMKZHCEpKJvB9yDdMIzR6lD7SQO_beN9-OwqW4yo2m7Nan4Yy28Rxh0crZJ50OVspA=w240-h480",
             "download": "https:\/\/app.1pixel.kr\/linkogame",
-            "description": "Very simple and calming puzzle game."
+            "description": "Rotate the lines on the given board to connect them all."
         },
         {
             "key": "mahko",
             "title": "Mahko - Relaxing Tiles",
-            "image": "https:\/\/static.wixstatic.com\/media\/3bb7e7_7274db8882f04417b6cd47182ae350f9~mv2.png",
+            "image": "https:\/\/play-lh.googleusercontent.com\/9ObpDw7-AEQjb-Mj9emq9z9jnKW4QuOSrgGIIHP4gZlDfjlASDcEvbrU94Xza4y-ftZT=w240-h480",
             "download": "https:\/\/app.1pixel.kr\/mahkogame",
-            "description": "Classic tile matching game."
+            "description": "Select 3 tiles with the same shape and remove them."
         },
         {
             "key": "linko2",
             "title": "Linko 2 - Relaxing Loop Shape",
-            "image": "https:\/\/static.wixstatic.com\/media\/3bb7e7_9d229c1a00d74c5bbd70886f76377bf1~mv2.png",
+            "image": "https:\/\/play-lh.googleusercontent.com\/F8HLwR4iapblr3EXdfaC_--qsMnRJxrYe_KQWJKvI2d9tkRuTWf60q7uO-jrIllQ7Mw=w240-h480",
             "download": "https:\/\/app.1pixel.kr\/linko2game",
-            "description": "Calm your mind and give you relaxation."
+            "description": "Calm your mind and link the broken lines to complete the shapes."
         },
         {
             "key": "blocko",
             "title": "Blocko - Relaxing Symmetry",
-            "image": "https:\/\/static.wixstatic.com\/media\/3bb7e7_a3e221f0366e493191e19da9c4361d33~mv2.png",
+            "image": "https:\/\/play-lh.googleusercontent.com\/d7mldFaxB4mSK2baLRZhIMyqTBnBsWQ-ump2XiN_RRka-8j0PlSIs_IasBrG9aC5cUQ=w240-h480",
             "download": "https:\/\/app.1pixel.kr\/blockogame",
-            "description": "A puzzle board game that can calm your mind and relaxing."
+            "description": "Assemble the provided blocks and make them identical to the ones presented."
         },
         {
             "key": "cubiko",
             "title": "Cubiko - Relaxing Cube",
-            "image": "https:\/\/static.wixstatic.com\/media\/3bb7e7_1b5359c246b44941988a65b31d4a2534~mv2.png",
+            "image": "https:\/\/play-lh.googleusercontent.com\/cmEa-popI9ucTEfWN0qNGv-XXD5zh33MBsqoxbCFj5wzg-5OITdwTKyTukTji4CSxXY=w240-h480",
             "download": "https:\/\/app.1pixel.kr\/cubikogame",
-            "description": "Meet the world famous puzzle game."
+            "description": "Meet the world famous puzzle game Magic Cube with a minimal design."
         },
         {
             "key": "trisko",
             "title": "Trisko - Relaxing Pentomino",
-            "image": "https:\/\/static.wixstatic.com\/media\/3bb7e7_982e9860cf734b528d69058f9d72e6b0~mv2.png",
+            "image": "https:\/\/play-lh.googleusercontent.com\/4Oh9jHiDIg_kpvJgI3da0v1hHFDNEi9qAWQkC8FmK3OmGjM-N2xGTu5wV62kvNnKdXmP=w240-h480",
             "download": "https:\/\/app.1pixel.kr\/triskogame",
             "description": "The world's most loved puzzle game has been reimagined in a new way."
-        }
+        },,
+        {
+            "key": "reflecko",
+            "title": "Reflecko - Relaxing Paint",
+            "image": "https:\/\/play-lh.googleusercontent.com\/hrW5cHWzNOLNiN5ll2jxigKD8JeCQpHcjrQcYPgTYmLUyRY870k-spjXhOM65KxXc-I=w240-h480",
+            "download": "https:\/\/app.1pixel.kr\/refleckogame",
+            "description": "Your goal is to fill the tiles with the same color."
+        },
+        {
+            "key": "fillko",
+            "title": "FillKo - Relaxing Fill Tiles",
+            "image": "https:\/\/play-lh.googleusercontent.com\/as5NTyKaWi2rT8Sh3Sw-V-OaKc-yATDF_s7RTx82OLYR2zQhCZhXceiQ4w7XUNzwXYs=w240-h480",
+            "download": "https:\/\/app.1pixel.kr\/fillkogame",
+            "description": "To fill the empty spaces, follow a simple rule of expanding number tiles in all directions."
+        },
     ]
 }
