@@ -2,6 +2,7 @@
     "items": [
         {
             "key": "linko",
+            "sku": "LINKOGAME",
             "title": "Linko - Relaxing Loop",
             "image": "https:\/\/play-lh.googleusercontent.com\/yMKZHCEpKJvB9yDdMIzR6lD7SQO_beN9-OwqW4yo2m7Nan4Yy28Rxh0crZJ50OVspA=w240-h480",
             "download": "https:\/\/app.1pixel.kr\/linkogame",
@@ -9,6 +10,7 @@
         },
         {
             "key": "mahko",
+            "sku": "MAHKOGAME",
             "title": "Mahko - Relaxing Tiles",
             "image": "https:\/\/play-lh.googleusercontent.com\/9ObpDw7-AEQjb-Mj9emq9z9jnKW4QuOSrgGIIHP4gZlDfjlASDcEvbrU94Xza4y-ftZT=w240-h480",
             "download": "https:\/\/app.1pixel.kr\/mahkogame",
@@ -16,6 +18,7 @@
         },
         {
             "key": "linko2",
+            "sku": "LINKKO2GAME",
             "title": "Linko 2 - Relaxing Loop Shape",
             "image": "https:\/\/play-lh.googleusercontent.com\/F8HLwR4iapblr3EXdfaC_--qsMnRJxrYe_KQWJKvI2d9tkRuTWf60q7uO-jrIllQ7Mw=w240-h480",
             "download": "https:\/\/app.1pixel.kr\/linko2game",
@@ -23,6 +26,7 @@
         },
         {
             "key": "blocko",
+            "sku": "BLOCKOGAME",
             "title": "Blocko - Relaxing Symmetry",
             "image": "https:\/\/play-lh.googleusercontent.com\/d7mldFaxB4mSK2baLRZhIMyqTBnBsWQ-ump2XiN_RRka-8j0PlSIs_IasBrG9aC5cUQ=w240-h480",
             "download": "https:\/\/app.1pixel.kr\/blockogame",
@@ -30,6 +34,7 @@
         },
         {
             "key": "cubiko",
+            "sku": "CUBIKOGAME",
             "title": "Cubiko - Relaxing Cube",
             "image": "https:\/\/play-lh.googleusercontent.com\/cmEa-popI9ucTEfWN0qNGv-XXD5zh33MBsqoxbCFj5wzg-5OITdwTKyTukTji4CSxXY=w240-h480",
             "download": "https:\/\/app.1pixel.kr\/cubikogame",
@@ -37,6 +42,7 @@
         },
         {
             "key": "trisko",
+            "sku": "TRISKOGAME",
             "title": "Trisko - Relaxing Pentomino",
             "image": "https:\/\/play-lh.googleusercontent.com\/4Oh9jHiDIg_kpvJgI3da0v1hHFDNEi9qAWQkC8FmK3OmGjM-N2xGTu5wV62kvNnKdXmP=w240-h480",
             "download": "https:\/\/app.1pixel.kr\/triskogame",
@@ -44,6 +50,7 @@
         },
         {
             "key": "reflecko",
+            "sku": "REFLECKOGAME",
             "title": "Reflecko - Relaxing Paint",
             "image": "https:\/\/play-lh.googleusercontent.com\/hrW5cHWzNOLNiN5ll2jxigKD8JeCQpHcjrQcYPgTYmLUyRY870k-spjXhOM65KxXc-I=w240-h480",
             "download": "https:\/\/app.1pixel.kr\/refleckogame",
@@ -51,10 +58,19 @@
         },
         {
             "key": "fillko",
+            "sku": "FILLKOGAME",
             "title": "FillKo - Relaxing Fill Tiles",
             "image": "https:\/\/play-lh.googleusercontent.com\/as5NTyKaWi2rT8Sh3Sw-V-OaKc-yATDF_s7RTx82OLYR2zQhCZhXceiQ4w7XUNzwXYs=w240-h480",
             "download": "https:\/\/app.1pixel.kr\/fillkogame",
             "description": "To fill the empty spaces, follow a simple rule of expanding number tiles in all directions."
+        },
+        {
+            "key": "pathlinko",
+            "sku": "PATHLINKOGAME",
+            "title": "PathLinKo - Relaxing Connect Tiles",
+            "image": "https:\/\/play-lh.googleusercontent.com\/do2olIKU7RfH4_tyIjzTpmYhe8HQvGVXePHDjHbbaOKkG9hWAOJuzI2LIVRq42p9ftk=w240-h480",
+            "download": "https:\/\/app.1pixel.kr\/pathlinkogame",
+            "description": "Connect the broken paths."
         }
     ]
 }
